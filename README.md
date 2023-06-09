@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dolapo Adegoju
-- 👀 I’m interested in programming 
-- 🌱 I’m currently learning Software engineering 
+- 👀 I’m interested Backend Development
+- 🌱 I’m currently learning Software engineering with alx_africa
 - 💞️ I’m looking to collaborate on diverse projects
 - 📫 How to reach me @tichiegoju@gmail.com
 
